@@ -1,5 +1,8 @@
 # Social housing in Paris
 
+![Screenshot A](screenshot_a.png)
+![Screenshot B](screenshot_b.png)
+
 ## Données
 
 Les données proviennent du RPLS 2014 (Répertoire des logements locatifs des bailleurs sociaux) auquel tous avons accès, sous réserve d'en faire la demande : http://www.statistiques.developpement-durable.gouv.fr/sources-methodes/enquete-nomenclature/1542/0/repertoire-logements-locatifs-bailleurs-sociaux-rpls.html
