@@ -16,7 +16,7 @@ Les données proviennent du [RPLS](http://www.statistiques.developpement-durable
 
 ## Géolocalisation
 
-* Le SCORE_GEO (dans le .csv des adresses géolocalisées) correspond à "l'indice de confiance" renvoyé par l'API de la Base Adresse Nationale.
+* Le SCORE_GEO correspond à "l'indice de confiance" renvoyé par l'API de la Base Adresse Nationale.
 * Certaines adresses ont été redressées manuellement.
 * Aucune garantie d'exactitude quant au résulat final.
 
