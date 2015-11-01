@@ -7,6 +7,7 @@ Les données proviennent du RPLS 2014 (Répertoire des logements locatifs des ba
 ## Outils utilisés
 
 * La librairie csvkit 0.9.1 pour manipuler les fichier (csvcut, csvjoin, etc.)
+* Quelques sed 's/x/y/g'
 * L'API de http://adresse.data.gouv.fr/ pour la géolocalistion des adresses
 * Mapbox Studio pour la partie cartographie.
 
@@ -18,7 +19,8 @@ Les données proviennent du RPLS 2014 (Répertoire des logements locatifs des ba
 ## A faire
 
 * Faire le même travail sur les autres départements d'Ile de France.
-* Permettre une représentation cartographique par type de financement (PLAI, PLUS, PLS, PLI), etc.
+* Permettre une représentation cartographique par type de financement (PLAI, PLUS, PLS, PLI)
+* ...
 
 ## Autres
 
