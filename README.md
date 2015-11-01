@@ -23,5 +23,6 @@ Les données proviennent du [RPLS](http://www.statistiques.developpement-durable
 ## A faire
 
 * Faire le même travail sur les autres départements d'Ile de France.
-* Permettre une représentation cartographique par type de financement (PLAI, PLUS, PLS, PLI)
-* ...
+* Permettre une représentation cartographique par type de financement (PLAI, PLUS, PLS, PLI). Les données nécessaires sont déjà contenues dans le .csv....
+
+![Financements](screenshot_financements.png)
